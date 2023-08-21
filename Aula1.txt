@@ -1,4 +1,4 @@
 Aula 1, entradas e saídas c++
-123
+45
 
-321
+6
