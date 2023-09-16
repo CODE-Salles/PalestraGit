@@ -1,4 +1,2 @@
-Aula 1, entradas e saídas c++
-45
+Início do trainee
 
-6
